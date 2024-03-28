@@ -1,0 +1,11 @@
+For the topic listed below, provide the following in the context of simulation in R/Python:
+
+A brief (at least one-to-two paragraphs, more as appropriate) discussion of the topic, explaining the topic in lay terms, and relating its context to the practice of simulation modeling.
+An appropriately summarized (pseudocode?) implementation/coding example per sub-idea as appropriate, either from your semester's work, or that you have developed anew.
+At least one example output -- whether figure(s) and/or table(s) and/or drawing(s) -- with brief discussion explaining that output to the concept discussion.
+
+Topic: 5.	Input modeling
+provide an example of non-parametric approach
+
+
+
